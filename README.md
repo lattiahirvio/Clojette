@@ -1,4 +1,6 @@
 # Clojette
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/clojette)
 Clojette is an opinionated and feature-full Clojure-like Lisp for GreyHack written in GreyScript/MiniScript. Clojette supports runtime-expanded macros, quasiquoting, splice unquoting, threading macros, and MiniScript interop. Many of the language features are implemented as they are in Clojure, so anyone familiar with Clojure will feel at home with Clojette. Clojette has keywords, let bindings, string literals, and other such features.
 
 # Why?
